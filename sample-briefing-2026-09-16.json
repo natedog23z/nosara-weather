@@ -1,0 +1,44 @@
+{
+  "id": "2026-09-16",
+  "location": "Nosara, Guanacaste, Costa Rica",
+  "timezone": "America/Costa_Rica",
+  "updatedLocal": "Wednesday 16 Sep 2026, ~8:00 a.m. CST",
+  "takeaway": "IMN has today quieter with only isolated peninsula showers, then a possible humidity/rain bump into Guanacaste this weekend. No tropical cyclone near Costa Rica; EPAC interest stays well offshore southwest of Mexico and trending west.",
+  "periods": [
+    {
+      "label": "Days 1–3 (Wed–Fri)",
+      "pattern": "Isolated–scattered Pacific-side showers/storms; morning clearer stretches; midweek Papagayo still fresh (marine).",
+      "implications": "Outdoor mornings look more usable than late afternoons; heat still high (IMN Nicoya max ~35°C).",
+      "confidence": "High for no nearby TC and isolated rain theme (IMN + models agree). Moderate on exact shower timing."
+    },
+    {
+      "label": "Days 4–7 (Sat–Tue)",
+      "pattern": "Weekend moisture/instability uptick possible as trades ease and tropical-wave influence returns (IMN weekly). Models split on how strongly SW/onshore low-level flow develops over Nicoya.",
+      "implications": "Plan flexibly for wetter afternoons into the weekend; not locked as a multi-day temporal.",
+      "confidence": "Moderate for wetter than midweek; low–moderate for a sustained temporales pattern."
+    },
+    {
+      "label": "Days 8–15",
+      "pattern": "Broadly quieter Pacífico Norte rainfall risk vs normal (IMN sub-seasonal deficit; CPC text leans drier Caribbean weeks 2–3). Far-west EPAC genesis scenarios stay distant from Nicoya.",
+      "implications": "No clear flood-season spike in the official longer-range guidance; short heavy cells can still happen.",
+      "confidence": "Moderate for below-normal / no major-system theme; low for day-by-day rain."
+    }
+  ],
+  "gyreWatch": {
+    "status": "Watch only — not established",
+    "possibleTiming": "Late weekend into ~Tue 22–23 Sep, only if SW Pacific-side flow and flanking lows persist",
+    "supporting": "IMN weekend wave/humidity language; GFS 06Z 16 Sep and GEFS mean show weaker Caribbean/Pacific lows and more SW 850 hPa flow later.",
+    "conflicting": "NHC has no disturbance near CR; EC-AIFS 06Z keeps easterlies Sat 19; AIFS-ENS early frames lack a closed Central American gyre; IMN sub-seasonal still favors Pacific deficit. Ensemble means only — no member-count probabilities."
+  },
+  "whatChanged": "This is the first briefing, so no day-to-day model drift comparison yet.",
+  "practical": "Best apparent outdoor windows: mornings Wed–Fri while IMN keeps rains more isolated on the peninsula. Worth planning around: possible weekend wetter stretch in Guanacaste, and Papagayo NE–E 20–25 kt with seas ~6–10 ft early week easing later (NHC OFFPZ8 PMZ113). No new IMN aviso dated 16 Sep at collection time.",
+  "alerts": [],
+  "sources": [
+    {"name": "IMN regional (valid Wed 16 Sep 2026)", "url": "https://www.imn.ac.cr/reporte-pronostico-regional"},
+    {"name": "IMN sub-seasonal (14 Sep–11 Oct 2026)", "url": "https://www.imn.ac.cr/pronostico-subestacional"},
+    {"name": "NHC EPAC TWO (500 AM PDT Wed 16 Sep)", "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7"},
+    {"name": "NHC OFFPZ8 marine (1234 AM PDT Wed 16 Sep)", "url": "https://www.nhc.noaa.gov/text/MIAOFFPZ8.shtml"},
+    {"name": "CPC Global Tropics Hazards text (updated 15 Sep)", "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"}
+  ],
+  "modelsInspected": "GFS, ECMWF, GEFS (gfs-ens), AIFS-ENS, EC-AIFS mostly 06Z Wed 16 Sep 2026; ECMWF EPS mean 12Z Tue 15 Sep. charts.ecmwf.int returned 403."
+}

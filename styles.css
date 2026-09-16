@@ -1,0 +1,375 @@
+/* Nosara Weather — Pacific Guanacaste coast aesthetic */
+:root {
+  --sand: #f4efe6;
+  --sand-deep: #e8dfd0;
+  --foam: #faf8f4;
+  --ink: #1a2e2a;
+  --ink-soft: #3d524c;
+  --muted: #5c6f68;
+  --pacific: #0d5c63;
+  --pacific-deep: #084248;
+  --lagoon: #1a8a8f;
+  --lagoon-soft: #c5e4e3;
+  --sunset: #c45c3a;
+  --sunset-soft: #f0d4c8;
+  --palm: #2d6a4f;
+  --line: rgba(26, 46, 42, 0.12);
+  --shadow: 0 8px 28px rgba(8, 66, 72, 0.08);
+  --radius: 14px;
+  --font-display: "Fraunces", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --max: 42rem;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-size: 17px;
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-body);
+  font-weight: 400;
+  line-height: 1.55;
+  color: var(--ink);
+  background:
+    radial-gradient(ellipse 120% 60% at 10% -10%, rgba(26, 138, 143, 0.12), transparent 55%),
+    radial-gradient(ellipse 80% 40% at 100% 0%, rgba(196, 92, 58, 0.08), transparent 50%),
+    linear-gradient(180deg, var(--sand) 0%, var(--foam) 40%, var(--sand-deep) 100%);
+  background-attachment: fixed;
+}
+
+a {
+  color: var(--pacific);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+a:hover { color: var(--sunset); }
+
+.wrap {
+  width: min(100% - 1.5rem, var(--max));
+  margin-inline: auto;
+  padding-block: 1.25rem 3rem;
+}
+
+/* Header */
+.site-header {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--line);
+  position: relative;
+}
+
+.site-header::after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 4.5rem;
+  margin-top: 0.85rem;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--lagoon), var(--sunset));
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-size: clamp(1.55rem, 5.5vw, 2rem);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--pacific-deep);
+  margin: 0;
+  line-height: 1.15;
+}
+
+.brand a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.brand-sub {
+  margin: 0.35rem 0 0;
+  font-size: 0.92rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+.meta-date {
+  margin-top: 0.75rem;
+  display: inline-block;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--pacific);
+  background: var(--lagoon-soft);
+  padding: 0.28rem 0.7rem;
+  border-radius: 999px;
+}
+
+.nav-back {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+/* Cards / sections */
+.card {
+  background: rgba(250, 248, 244, 0.88);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.15rem;
+  margin-bottom: 1rem;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(6px);
+}
+
+.card h2 {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0 0 0.65rem;
+  color: var(--pacific-deep);
+  letter-spacing: 0.01em;
+}
+
+.takeaway {
+  border-left: 4px solid var(--sunset);
+  background: linear-gradient(135deg, rgba(240, 212, 200, 0.55), rgba(250, 248, 244, 0.9));
+}
+
+.takeaway p {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.status-pill {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 0.22rem 0.55rem;
+  border-radius: 6px;
+  background: var(--sand-deep);
+  color: var(--ink-soft);
+  margin-bottom: 0.55rem;
+}
+
+/* Forecast table — stacked on phone */
+.forecast-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.forecast-table thead {
+  display: none;
+}
+
+.forecast-table tr {
+  display: block;
+  margin-bottom: 0.9rem;
+  padding: 0.85rem 0.9rem;
+  background: var(--foam);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+.forecast-table tr:last-child { margin-bottom: 0; }
+
+.forecast-table td {
+  display: block;
+  padding: 0.2rem 0;
+  border: none;
+  vertical-align: top;
+}
+
+.forecast-table td::before {
+  content: attr(data-label);
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--lagoon);
+  margin-bottom: 0.15rem;
+}
+
+.forecast-table td[data-label="Period"] {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.02rem;
+  color: var(--pacific-deep);
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px dashed var(--line);
+}
+
+.forecast-table td[data-label="Period"]::before { display: none; }
+
+@media (min-width: 720px) {
+  .forecast-table thead {
+    display: table-header-group;
+  }
+  .forecast-table thead th {
+    text-align: left;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--lagoon);
+    padding: 0.4rem 0.55rem 0.65rem;
+    border-bottom: 2px solid var(--line);
+  }
+  .forecast-table tr {
+    display: table-row;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .forecast-table tr:last-child { border-bottom: none; }
+  .forecast-table td {
+    display: table-cell;
+    padding: 0.75rem 0.55rem;
+    width: 25%;
+    font-size: 0.88rem;
+  }
+  .forecast-table td::before { display: none; }
+  .forecast-table td[data-label="Period"] {
+    font-size: 0.92rem;
+    border-bottom: none;
+    margin: 0;
+    padding-bottom: 0.75rem;
+  }
+}
+
+/* Gyre details */
+.gyre-grid {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.gyre-item strong {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.2rem;
+}
+
+.gyre-item p { margin: 0; font-size: 0.95rem; }
+
+/* Sources */
+.sources {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sources li {
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.92rem;
+}
+.sources li:last-child { border-bottom: none; }
+
+/* Archive list */
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.archive-list li {
+  margin-bottom: 0.55rem;
+}
+
+.archive-list a {
+  display: block;
+  padding: 0.75rem 0.85rem;
+  border-radius: 10px;
+  background: var(--foam);
+  border: 1px solid var(--line);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.archive-list a:hover {
+  border-color: var(--lagoon);
+  background: var(--lagoon-soft);
+}
+
+.archive-list .arch-date {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--pacific-deep);
+  font-size: 0.98rem;
+}
+
+.archive-list .arch-meta {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 0.15rem 0 0.35rem;
+}
+
+.archive-list .arch-take {
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Footer */
+.site-footer {
+  margin-top: 2rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.site-footer p { margin: 0 0 0.5rem; }
+
+/* Loading / error */
+.state-msg {
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.state-msg.error {
+  color: var(--sunset);
+  background: var(--sunset-soft);
+  border-radius: var(--radius);
+}
+
+.models-note {
+  margin-top: 0.75rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* Wave mark decoration */
+.wave-mark {
+  display: block;
+  width: 100%;
+  height: 28px;
+  margin: 0.5rem 0 0;
+  opacity: 0.35;
+  color: var(--pacific);
+}
