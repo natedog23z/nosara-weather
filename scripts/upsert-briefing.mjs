@@ -27,6 +27,7 @@ const REQUIRED_TOP = [
   "takeaway",
   "periods",
   "gyreWatch",
+  "surfWinds",
   "whatChanged",
   "practical",
   "sources",
@@ -34,6 +35,7 @@ const REQUIRED_TOP = [
 
 const REQUIRED_PERIOD = ["label", "pattern", "implications", "confidence"];
 const REQUIRED_GYRE = ["status", "possibleTiming", "supporting", "conflicting"];
+const REQUIRED_SURF = ["regime", "detail", "bestWindows", "confidence"];
 
 function fail(msg) {
   console.error(`Error: ${msg}`);
@@ -59,6 +61,12 @@ function validate(b) {
   });
   for (const k of REQUIRED_GYRE) {
     if (!b.gyreWatch[k]) fail(`gyreWatch.${k} is required`);
+  }
+  if (!b.surfWinds || typeof b.surfWinds !== "object") {
+    fail("surfWinds is required");
+  }
+  for (const k of REQUIRED_SURF) {
+    if (!b.surfWinds[k]) fail(`surfWinds.${k} is required`);
   }
   if (!Array.isArray(b.sources) || b.sources.length === 0) {
     fail("sources must be a non-empty array");

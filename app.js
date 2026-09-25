@@ -77,6 +77,32 @@ function renderForecast(briefing) {
   `;
 }
 
+
+function renderSurfWinds(briefing) {
+  const s = briefing.surfWinds;
+  if (!s) return "";
+  return `
+    <section class="card" aria-labelledby="surf-h">
+      <h2 id="surf-h">Surf winds</h2>
+      <span class="status-pill">${esc(s.regime)}</span>
+      <div class="gyre-grid">
+        <div class="gyre-item">
+          <strong>Detail</strong>
+          <p>${esc(s.detail)}</p>
+        </div>
+        <div class="gyre-item">
+          <strong>Best windows</strong>
+          <p>${esc(s.bestWindows)}</p>
+        </div>
+        <div class="gyre-item">
+          <strong>Confidence</strong>
+          <p>${esc(s.confidence)}</p>
+        </div>
+      </div>
+    </section>
+  `;
+}
+
 function renderGyre(briefing) {
   const g = briefing.gyreWatch;
   if (!g) return "";
@@ -151,6 +177,7 @@ function renderBriefing(briefing, opts = {}) {
     renderHeader(briefing, opts),
     renderTakeaway(briefing),
     renderForecast(briefing),
+    renderSurfWinds(briefing),
     renderGyre(briefing),
     renderWhatChanged(briefing),
     renderPractical(briefing),
