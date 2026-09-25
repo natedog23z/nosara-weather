@@ -3,54 +3,54 @@
   "location": "Nosara, Guanacaste, Costa Rica",
   "timezone": "America/Costa_Rica",
   "updatedLocal": "Friday 25 Sep 2026, ~6:15 a.m. CST",
-  "takeaway": "IMN Friday keeps Pacífico Norte in rainy-season mode: morning partly cloudy, afternoon scattered showers with storms, and possible coastal rains at night (Nicoya ~35°C; Liberia ~36.5°C). Surf-wind regime remains Pacific/monsoon onshore–side (SW–W 850), not Caribbean trades — expect choppier faces vs classic easterly glass. Hurricane Polo is a Category 5 well offshore southwestern Mexico (~17.2°N/107.5°W); Odalys stays far west; Tehuantepec genesis is high (~90% in 7 days) tracking parallel to southern/southwestern Mexico — no cyclone near Costa Rica. Gyre/temporales watch stays elevated, not established: ensemble means keep Pacific SW low-level moisture into Nicoya through the weekend into early next week, without a closed land gyre. IMN weekly flags Tropical Wave #47 Sat–Sun as a possible afternoon-rain boost.",
+  "takeaway": "Typical rainy-season Friday for northern Pacific Costa Rica: partly cloudy mornings, afternoon showers and storms, and a chance of coastal rain at night. Hot inland (about 35°C in Nicoya, 36.5°C in Liberia). Surf winds stay onshore from the Pacific — choppier faces, not classic easterly glass. Hurricane Polo is Category 5 well off southwestern Mexico; another system may form near Tehuantepec later and track along southern Mexico — nothing near Costa Rica. Prolonged multi-day rain watch is elevated but not locked in. A tropical wave this weekend could bump Saturday–Sunday afternoon rains a bit.",
   "periods": [
     {
       "label": "Days 1–3 (Fri–Sun)",
-      "pattern": "Today (IMN Pacífico Norte, valid Fri 25 Sep): morning partly cloudy; afternoon partly cloudy to cloudy with scattered showers and storms; evening partly cloudy with possible coastal rains. Nicoya max ~35.0°C / min ~23.8°C (Liberia ~36.5°C). General commentary: weak winds, sea breezes, and humidity favoring afternoon storms on the Pacific slope, Valle Central, and central Zona Norte; maritime Pacific instability this morning; probable localized coastal Pacific showers early night. Weekly: typical rainy-season pattern; Tropical Wave #47 this weekend (especially Sat–Sun) may increase afternoon instability/rain. GFS 06Z / GEFS mean 06Z / EPS mean 00Z / AIFS-ENS 00Z 24-h maps keep Nicoya mostly light–moderate (~0.1–0.5 in / 24 h Fri–Sat window; GEFS f024 ~0.1–0.4 in). GEFS mean epac f024 and EPS/AIFS f024 show light SW–W 850 onshore over Nicoya with flanking EPAC lows (GEFS ~1010 hPa class near Guatemala/El Salvador waters; EPS det-type deep TC lows ~979–988 hPa well west near Mexico) — moist monsoon trough / ITCZ, not a closed land gyre. Papagayo: Fri afternoon NW–N ~10 kt; Fri night Papagayo briefly E 10–15 kt then S–SW; seas ~4–6 ft (NHC OFFPZ8 PMZ113).",
-      "implications": "Mornings still the better outdoor window; plan around afternoon scattered storms (IMN Pac Norte) and possible coastal night rains. Inland Guanacaste stays very hot. Surf: Pacific onshore–side regime — prefer overnight/early-morning lulls; do not expect all-day trade glass. Watch Sat–Sun if OT#47 verifies wetter.",
-      "confidence": "High for no nearby TC and continued ITCZ shower/storm chances (IMN + NHC). Moderate on exact Nosara timing/amounts (IMN scattered storms vs light–moderate ensemble means; OT#47 weekend boost uncertain)."
+      "pattern": "Morning partly cloudy; afternoon scattered showers and storms; night rain possible along the coast. Light-to-moderate rain chances overall. Winds stay Pacific/onshore. Near Papagayo: light winds, seas about 4–6 ft; a brief overnight easterly Friday night, then south/southwest again.",
+      "implications": "Use mornings outdoors. For surf, prefer overnight and early-morning lulls — not all-day glass. Watch Sat–Sun if the weekend tropical wave makes afternoons wetter.",
+      "confidence": "High that storms stay local/seasonal and no nearby cyclone. Moderate on exact Nosara timing and amounts."
     },
     {
       "label": "Days 4–7 (Mon–Thu)",
-      "pattern": "IMN weekly anticipates a slight decrease in Pacific rains early next week, though isolated afternoon showers/storms can still occur. Mon (~28 Sep): GEFS mean 06Z epac f072 keeps W–SSW 850 over Nicoya with ~1006 hPa EPAC L south of Mexico and deeper TC-type lows farther west; EPS mean 00Z f072 shows ~1004 hPa L south of southern Mexico with light SW 850 over Nicoya; AIFS-ENS 00Z f072 similar (~1004 hPa L, W–SW 850) and wetter over Nicoya (~0.5–1.0 in / 24 h) than EPS (~0.2–0.5 in) or GEFS (~0.1–0.4 in). GFS deterministic 06Z epac f072 deepens a Mexico-parallel TC (~968 hPa class west of mainland) plus a ~999 hPa L south of Mexico — treat deep features as Mexico-parallel TC environment (Polo / Tehuantepec genesis), not a Costa Rica gyre. By ~Wed 30 (f120), GEFS mean still shows S–SSW 850 over Nicoya with precip ~0.5–0.75 in; EPS f120 also light SW/SSW 850 without a closed land gyre. NHC OFFPZ8: moderate-or-weaker winds into early next week; Papagayo Sun–Mon often variable <5 kt with seas ~4–6 ft. Not locked as a multi-day temporal or closed Central American gyre.",
-      "implications": "Keep late-day plans flexible Mon–Wed if SW moisture holds; treat deeper EPS/AIFS/GFS EPAC lows as Mexico-parallel moisture signal, not a guaranteed temporales. Marine: Papagayo mostly light/S or variable with seas ~4–6 ft (NHC). Surf regime stays Pacific onshore–side on ensemble means through midweek.",
-      "confidence": "Moderate for continued shower chances and persistent SW-moisture signal; low–moderate for sustained temporales or a closed Central American gyre (ensemble means lack a closed land gyre; Nicoya precip stays mostly light–moderate except AIFS wetter outlier)."
+      "pattern": "Slight easing of Pacific rains early next week, with isolated afternoon storms still possible. Winds remain mostly Pacific/onshore. Seas stay moderate; Papagayo often light or variable midweek.",
+      "implications": "Keep late-day plans flexible Mon–Wed. Surf still onshore-side — no clean trade return on the main model picture.",
+      "confidence": "Moderate for continued showers; low–moderate for a true multi-day temporales."
     },
     {
       "label": "Days 8–15",
-      "pattern": "IMN sub-seasonal (28 Sep–25 Oct) keeps Pacífico Norte dry/below normal (weekly Pac Norte roughly 5–90 mm for 28 Sep–4 Oct, then 1–70 mm 5–11 Oct) with stronger Pacific deficit into mid–late October; no extreme-event call for 28 Sep–4 Oct. CPC GTH text updated 22 Sep (valid 30 Sep–13 Oct): very strong El Niño background; week-2/3 EPAC genesis areas lean Mexico / open EPAC, not CR; discussion notes El Niño shear over Mexico/Caribbean may ease later as MJO evolves — not a CR-focused extreme rainfall call. GEFS mean f168 (~2 Oct) still shows light–moderate precip over Nicoya (~0.5–0.75 in / 24 h) without a local extreme bullseye or closed land gyre. Heavy EPAC precip stays offshore Mexico. Single deterministic frames can still show a wetter day — treat as scenario only.",
-      "implications": "No official signal for a prolonged flood-season spike on the Nicoya Pacific side; short heavy cells remain possible. Official sub-seasonal leans drier than a temporales regime.",
-      "confidence": "Moderate for below-normal / no major local TC theme; low for day-by-day rain."
+      "pattern": "Longer-range outlook still leans drier than normal for the northern Pacific into early October. No signal for a prolonged flood-season spike on the Nicoya coast, though short heavy cells can still pop.",
+      "implications": "No official prolonged wet spell flagged for Nicoya Pacific. Treat any single wet day as a short cell, not a new season pattern.",
+      "confidence": "Moderate for the quieter theme; low for day-by-day detail."
     }
   ],
   "gyreWatch": {
     "status": "Elevated watch — not established",
-    "possibleTiming": "Roughly weekend into early next week (~Sat–Tue 26–29 Sep) while flanking EPAC lows, Pacific SW low-level flow, and IMN OT#47 weekend timing overlap; GEFS mean still keeps Nicoya onshore SW/SSW through f120 rather than a clean trade return",
-    "supporting": "GEFS mean 06Z f024–f120 shows SW–W/SSW 850 over Nicoya (epac panels clearest) with EPAC Ls ~1006–1010 hPa class; EPS mean 00Z f024–f072 and AIFS-ENS 00Z f072 keep SW onshore fetch and broader EPAC lows (~1004 hPa class south of Mexico). Short-term IMN ITCZ / Pac Norte afternoon storms + possible coastal night rains + weekly OT#47 Sat–Sun support a moist Pacific weekend. Tehuantepec genesis now ~90% in 7 days (up from ~80% Thu) adds Mexico-parallel moisture risk. Versus Thursday, SW-moisture window still extends through early next week on ensemble means; AIFS f072 is wetter over Nicoya than EPS/GEFS.",
-    "conflicting": "Ensemble means do not show a closed gyre centered over Central America — pattern is flanking EPAC lows / monsoon trough plus SW moisture. GFS det deep EPAC lows are TC-type features near Mexico (Polo / next Tehuantepec system), not a CR gyre. Ensemble-mean Nicoya precip stays mostly light–moderate (EPS/GEFS); only AIFS is wetter locally. NHC has no disturbance near Costa Rica (Cat-5 Polo and Hurricane Odalys well west/NW; Tehuantepec genesis tracks parallel to southern/southwestern Mexico). IMN sub-seasonal still favors Pacific rainfall deficit from 28 Sep onward. Ensemble means only — no member-count probabilities."
+    "possibleTiming": "Roughly Saturday through Tuesday (26–29 Sep) while Pacific moisture and the weekend tropical wave overlap",
+    "supporting": "Models keep moist Pacific flow into Nicoya through the weekend into early next week. Costa Rica’s weekend tropical wave could add afternoon rain Sat–Sun. A system near southern Mexico may add more Pacific moisture. One model family is a bit wetter midweek than the others.",
+    "conflicting": "No closed gyre over Central America — the pattern is moist Pacific flow and distant Mexico systems, not a Costa Rica-centered rain machine. Distant hurricanes stay off Mexico. Average model rain for Nicoya looks mostly light-to-moderate. Official longer-range outlook still leans drier from late September."
   },
   "surfWinds": {
-    "regime": "Pacific / monsoon (onshore–side) — not Caribbean trades",
-    "detail": "GEFS/EPS/AIFS keep light SW–W to SSW 850 over Nicoya through the weekend into early next week with flanking EPAC lows — Pacific-side moisture/monsoon trough, not E–NE Caribbean trades. Nicaragua proxy: maps do NOT show all-day Nica offshore trades; Pacific SW flow dominates the isthmus low levels, so do not expect Nosara all-day offshore glass. NHC OFFPZ8 Papagayo is mostly light/S or variable with seas ~4–6 ft; a brief Fri-night Papagayo E 10–15 kt pulse is marine surface only and is not the same as glassy Caribbean-trade offshore at Nosara's west-facing beaches.",
-    "bestWindows": "Fri–Sun: no clean all-day trade-offshore signal. Prefer the lightest overnight–early morning lulls before afternoon convection; expect generally choppier Pacific/onshore-side flow vs classic easterly glass. Brief Fri-night easterly Papagayo (OFFPZ8) may help overnight glass locally, then daytime S/SW returns. Watch for any GEFS flip back toward E–NE trades (not showing through ~f120 in this morning’s means).",
-    "confidence": "High that the large-scale regime is Pacific SW rather than trades for days 1–7; moderate on exact beach-face chop vs lull timing (850 used as regime proxy; marine surface is light/variable with a short overnight easterly pulse)."
+    "regime": "Pacific onshore — not Caribbean easterlies",
+    "detail": "Low-level flow is from the Pacific side (southwest/west), which chops west-facing Nosara beaches. Nicaragua is not showing all-day offshore trades either, so don’t expect Nosara all-day glass. A short overnight easterly near Papagayo Friday night may help local night glass, then daytime onshore returns.",
+    "bestWindows": "Overnight and early morning Fri–Sun. No clean all-day offshore signal this weekend.",
+    "confidence": "High on the overall onshore pattern for the next week; moderate on exact hour-to-hour lulls."
   },
-  "whatChanged": "New Friday IMN Pac Norte: afternoon language is scattered showers with storms (vs Thu’s center/south focus); night language is possible coastal rains (vs Thu’s possible localized shower near the Gulf of Nicoya). Weekly now highlights Tropical Wave #47 this weekend Sat–Sun (yesterday referenced OT#46). Sub-seasonal rolled forward to 28 Sep–25 Oct and still keeps Pac Norte dry/deficit. Thu evening IMN aviso (5:30 p.m.) emphasized Nicoya peninsula for late-day/early-night storms with 15–40 mm / 6 h (local max ~80 mm) — no new Friday aviso listed yet at collection time. Polo regained Category 5 (~160 mph / 929 mb near 17.2°N/107.5°W at 0900 UTC Fri), farther west offshore SW Mexico; Odalys remains a hurricane well west; Tehuantepec genesis raised to ~90% in 7 days (was ~80%). NHC OFFPZ8: Papagayo Fri afternoon NW–N 10 kt, Fri night brief E 10–15 then S/SW weekend, seas ~4–6 ft (yesterday often 3–6 ft). Model theme similar to Thu: SW moisture persists into f120, with AIFS f072 wetter over Nicoya than EPS/GEFS — still no closed land gyre.",
-  "practical": "Best apparent outdoor windows: mornings Fri–Sun before the convective peak, noting IMN afternoon scattered storms on Pac Norte and a possible OT#47 weekend bump Sat–Sun. Worth planning around: possible coastal night rains, very warm inland heat (Liberia ~36.5°C; Nicoya ~35°C), and Papagayo light/S or variable with seas ~4–6 ft (NHC OFFPZ8 PMZ113). Surf: Pacific onshore–side regime — chase overnight/early-morning lulls, not all-day glass. Watch Sat–Tue if SW moisture / OT#47 / Tehuantepec moisture verify wetter than GEFS. Latest IMN aviso is Thu 24 Sep 5:30 p.m. (Nicoya-focused afternoon/evening storms) — no new Friday aviso listed yet.",
+  "whatChanged": "Today’s Costa Rica forecast puts more afternoon storm language on the northern Pacific and allows coastal rain at night. The weekly now highlights Tropical Wave #47 for Sat–Sun. Polo is back to Category 5 farther west; Tehuantepec formation odds are higher (~90%). Wind picture unchanged: still Pacific onshore, not trades.",
+  "practical": "Best outdoors: mornings before afternoon storms. Expect heat inland and possible night rain on the coast. For surf, chase night and early-morning lulls — not all-day glass. Keep an eye on Sat–Tue if the weekend wave and Pacific moisture verify wetter. Latest storm aviso was Thursday evening (Nicoya-focused); no new Friday aviso yet.",
   "alerts": [
     {
-      "name": "IMN aviso Thu 24 Sep 5:30 p.m. — Aguaceros y tormenta (afternoon/evening; Nicoya peninsula emphasized)",
+      "name": "IMN aviso Thu 24 Sep 5:30 p.m. — Afternoon/evening storms (Nicoya emphasized)",
       "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos/-/asset_publisher/Xx7ByS9pazx5/content/aviso-meteorologico-imn-240926-05-30-p-m-"
     }
   ],
   "sources": [
     {
-      "name": "IMN regional (valid Fri 25 Sep 2026)",
+      "name": "IMN regional (Fri 25 Sep 2026)",
       "url": "https://www.imn.ac.cr/reporte-pronostico-regional"
     },
     {
-      "name": "IMN weekly / tendencia semanal (rainy-season pattern; OT#47 weekend Sat–Sun)",
+      "name": "IMN weekly (Tropical Wave #47 weekend)",
       "url": "https://www.imn.ac.cr/web/imn/tendencia-semanal"
     },
     {
@@ -58,25 +58,17 @@
       "url": "https://www.imn.ac.cr/pronostico-subestacional"
     },
     {
-      "name": "IMN avisos (latest: Thu 24 Sep 5:30 p.m. Nicoya afternoon/evening storms; no new Fri aviso yet)",
+      "name": "IMN avisos (latest Thu 24 Sep 5:30 p.m.)",
       "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos"
     },
     {
-      "name": "NHC EPAC TWO (500 AM PDT Fri 25 Sep) + 7-day graphic (0453 AM PDT Fri 25 Sep)",
+      "name": "NHC East Pacific outlook + Polo + marine",
       "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7"
     },
     {
-      "name": "NHC Polo advisory #19 (0900 UTC Fri 25 Sep) — Cat 5, 160 mph / 929 mb",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/250855.shtml"
-    },
-    {
-      "name": "NHC OFFPZ8 marine (200 AM PDT Fri 25 Sep)",
-      "url": "https://www.nhc.noaa.gov/text/MIAOFFPZ8.shtml"
-    },
-    {
-      "name": "CPC Global Tropics Hazards text (updated 22 Sep; valid 30 Sep–13 Oct)",
+      "name": "CPC Global Tropics Hazards (valid 30 Sep–13 Oct)",
       "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"
     }
   ],
-  "modelsInspected": "Tropical Tidbits maps (title bars verified on sampled frames): GFS 06Z Fri 25 Sep apcpn24 namer f024–f240 + mslp_uv850 namer/epac f024–f240; GEFS mean 06Z apcpn24 + mslp_uv850 namer/epac f024–f240; ECMWF 00Z apcpn24 + mslp_uv850 namer/epac f024–f240; EPS mean 00Z apcpn24 + mslp_uv850 namer/epac f024–f240; AIFS-ENS 00Z apcpn24 + mslp_uv850 namer/epac f024–f240. Prefer latest: GFS/GEFS 06Z available; ECMWF/EPS 06Z 404 so used 00Z; AIFS-ENS 06Z also 200 but matched ECMWF family at 00Z. NHC EPAC 7-day TWO graphic inspected (0453 AM PDT Fri 25 Sep). charts.ecmwf.int not used for map frames this run (Tropical Tidbits preferred)."
+  "modelsInspected": "Tropical Tidbits: GFS/GEFS mean 06Z Fri 25 Sep rain + wind maps; ECMWF/EPS mean and AIFS-ENS 00Z rain + wind maps (06Z ECMWF/EPS unavailable). NHC East Pacific 7-day graphic inspected."
 }
