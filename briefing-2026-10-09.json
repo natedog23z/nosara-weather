@@ -45,38 +45,14 @@
     }
   ],
   "sources": [
-    {
-      "name": "IMN regional forecast (Fri 9 Oct): Pacífico Norte partly cloudy morning, isolated afternoon storms, possible coastal rain at night; isolated rain on Nicoya Peninsula; Nicoya high 36°C",
-      "url": "https://www.imn.ac.cr/web/imn/reporte-pronostico-regional"
-    },
-    {
-      "name": "IMN weekly outlook (8–14 Oct): scattered downpours Thu–Fri, tropical wave #50 Saturday night, moderate trades early next week",
-      "url": "https://www.imn.ac.cr/web/imn/tendencia-semanal"
-    },
-    {
-      "name": "IMN sub-seasonal (12 Oct–8 Nov): below-normal rain nationwide; very dry North Pacific from 26 Oct",
-      "url": "https://www.imn.ac.cr/pronostico-subestacional"
-    },
-    {
-      "name": "IMN avisos (latest: Thu 8 Oct, 10:30 a.m.)",
-      "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos"
-    },
-    {
-      "name": "NHC East Pacific TWO (5 a.m. PDT Fri 9 Oct): TS Rachel, Hurricane Simon; low south of Guatemala 0%/60%",
-      "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7"
-    },
-    {
-      "name": "NHC OFFPZ8 / PMZ113 Papagayo (1:13 a.m. PDT Fri 9 Oct): Papagayo NE–E 10–15 kt today, N/NW 10 kt elsewhere; NE–E 10 kt Sun, E 10–15 kt Mon, SE–S Mon night; S–SW swell 15–17 s, 5–7 ft Mon (day labels appear garbled)",
-      "url": "https://www.nhc.noaa.gov/text/MIAOFFPZ8.shtml"
-    },
-    {
-      "name": "CPC Global Tropics Hazards (updated 6 Oct; valid 14–27 Oct): below-normal Caribbean rain; no CAG mention",
-      "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"
-    },
-    {
-      "name": "Tropical Tidbits model maps (GEFS, EPS, AIFS-ENS, ECMWF, GFS)",
-      "url": "https://www.tropicaltidbits.com/analysis/models/"
-    }
+    {"name": "IMN regional forecast (Fri 9 Oct): Pacífico Norte partly cloudy morning, isolated afternoon storms, possible coastal rain at night; isolated rain on Nicoya Peninsula; Nicoya high 36°C", "url": "https://www.imn.ac.cr/web/imn/reporte-pronostico-regional"},
+    {"name": "IMN weekly outlook (8–14 Oct): scattered downpours Thu–Fri, tropical wave #50 Saturday night, moderate trades early next week", "url": "https://www.imn.ac.cr/web/imn/tendencia-semanal"},
+    {"name": "IMN sub-seasonal (12 Oct–8 Nov): below-normal rain nationwide; very dry North Pacific from 26 Oct", "url": "https://www.imn.ac.cr/pronostico-subestacional"},
+    {"name": "IMN avisos (latest: Thu 8 Oct, 10:30 a.m.)", "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos"},
+    {"name": "NHC East Pacific TWO (5 a.m. PDT Fri 9 Oct): TS Rachel, Hurricane Simon; low south of Guatemala 0%/60%", "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7"},
+    {"name": "NHC OFFPZ8 / PMZ113 Papagayo (1:13 a.m. PDT Fri 9 Oct): Papagayo NE–E 10–15 kt today, N/NW 10 kt elsewhere; NE–E 10 kt Sun, E 10–15 kt Mon, SE–S Mon night; S–SW swell 15–17 s, 5–7 ft Mon (day labels appear garbled)", "url": "https://www.nhc.noaa.gov/text/MIAOFFPZ8.shtml"},
+    {"name": "CPC Global Tropics Hazards (updated 6 Oct; valid 14–27 Oct): below-normal Caribbean rain; no CAG mention", "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"},
+    {"name": "Tropical Tidbits model maps (GEFS, EPS, AIFS-ENS, ECMWF, GFS)", "url": "https://www.tropicaltidbits.com/analysis/models/"}
   ],
   "modelsInspected": "Tropical Tidbits East Pacific domain, title bars checked on each frame: GEFS mean and GFS 06Z Fri 9 Oct; ECMWF EPS mean, AIFS-ENS mean, and ECMWF deterministic 00Z Fri 9 Oct. 24-hour precip valid Oct 10–24 (ensembles, GFS) and to ~Oct 11–12 (ECMWF deterministic). 850 hPa wind/MSLP from analysis to Oct 21 (ensembles, GFS) and Oct 15 (ECMWF deterministic). Zoomed crops on Nicaragua, Costa Rica and the nearby Pacific. Ensemble means only, no individual members inspected. charts.ecmwf.int not used."
 }
