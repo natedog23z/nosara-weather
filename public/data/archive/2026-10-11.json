@@ -78,9 +78,9 @@
       "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"
     },
     {
-      "name": "Tropical Tidbits model maps (GEFS, EPS, AIFS-ENS, ECMWF, GFS)",
+      "name": "Tropical Tidbits model maps (GEFS, EPS, AIFS-ENS, GFS)",
       "url": "https://www.tropicaltidbits.com/analysis/models/"
     }
   ],
-  "modelsInspected": "Tropical Tidbits East Pacific domain, title bars checked on each frame: GEFS mean 06Z Sun 11 Oct; GFS 00Z Sun 11 Oct (06Z run not yet complete); ECMWF EPS mean, AIFS-ENS mean and ECMWF deterministic 00Z Sun 11 Oct. 24-hour precip valid Oct 12–24 (GEFS) and Oct 12–26 (EPS, AIFS-ENS). 850 hPa wind/MSLP from analysis to Oct 23 for the ensembles. Zoomed crops on Nicaragua, Costa Rica and the nearby Pacific. Ensemble means only, no individual members inspected. charts.ecmwf.int not used."
+  "modelsInspected": "Tropical Tidbits East Pacific domain, title bars checked on each frame: GEFS mean 06Z Sun 11 Oct; GFS 00Z Sun 11 Oct (06Z run not yet complete); ECMWF EPS mean and AIFS-ENS mean 00Z Sun 11 Oct. 24-hour precip valid Oct 12–24 (GEFS), Oct 12–26 (EPS, AIFS-ENS) and Oct 12–17 (GFS). 850 hPa wind/MSLP from analysis to Oct 23 for the three ensembles. Zoomed crops on Nicaragua, Costa Rica and the nearby Pacific. ECMWF deterministic maps were downloaded but not used for this call. Ensemble means only, no individual members inspected. charts.ecmwf.int not used."
 }
