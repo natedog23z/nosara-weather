@@ -1,0 +1,90 @@
+{
+  "id": "2026-10-14",
+  "location": "Nosara, Guanacaste, Costa Rica",
+  "timezone": "America/Costa_Rica",
+  "updatedLocal": "Wednesday 14 Oct 2026, ~6:40 a.m. CST",
+  "takeaway": "Today is hot and mostly fair this morning, with a chance of an early shower near the coast and scattered storms this afternoon that may linger into the evening. Nicoya should reach about 34°C. Costa Rica's weather service (IMN) says the tropical shower band is moving back over the country, so today and Thursday are the wettest days of the week, though storms should stay hit-or-miss on our side of the North Pacific. For surf, it's light wind with onshore afternoons through Thursday, then a big upgrade: a new long-period swell (19 seconds) arrives Thursday night, and the Caribbean trades are back from Saturday, building to 10–15 knots from the east on Sunday. Saturday through about Tuesday (Oct 17–20) is the offshore stretch to plan around. Tropical Storm Trudy formed well south of Mexico and is heading away from us. Multi-day soaking rain is still watch-only, with the window now about Oct 21–25.",
+  "periods": [
+    {
+      "label": "Days 1–3 (Wed–Fri, Oct 14–16)",
+      "pattern": "The tropical shower band has moved back over Costa Rica, so there's more moisture around today. IMN expects some rain over the nearby ocean before dawn, few to partly cloudy skies this morning, possible scattered downpours with thunder this afternoon and scattered showers tonight on the North Pacific. Nicoya should reach about 34°C. IMN's weekly outlook still makes Wednesday and Thursday the wettest days, with a chance of morning showers near the coast through Friday. It also keeps afternoon storms more isolated on the western side of the North Pacific, which is us. The model averages give Nicoya light to moderate rain, roughly 5–15 mm (a quarter to half an inch) a day. The European AI ensemble briefly shows a weak low near the Gulf of Nicoya on Thursday, which could make Thursday a bit wetter. The heaviest rain stays offshore and on the Central and South Pacific.",
+      "implications": "Get outdoor plans done in the morning and expect a possible afternoon or evening storm today and Thursday. Friday looks a little easier. It's hot, so stay hydrated.",
+      "confidence": "High on fair mornings and hit-or-miss afternoon storms. Moderate on Thursday being the wettest day. Moderate on how much falls at Nosara itself."
+    },
+    {
+      "label": "Days 4–7 (Sat–Tue, Oct 17–20)",
+      "pattern": "The Caribbean trades come back. The marine forecast has a northeast wind at 10 knots on Saturday, northeast to east at 10–15 knots on Sunday, and east to southeast at 10–15 knots Sunday night. The U.S. and European ensemble averages both show solid easterly trades across Nicaragua and northern Costa Rica from Sunday through Tuesday, and the European AI ensemble keeps them going even longer. As the trades build, the wetter areas shift to the Caribbean side and the Pacific side trends drier, though the European AI ensemble keeps some showers near Nicoya over the weekend. The main U.S. model is the outlier again, with a small low just off Nicoya from Sunday to Monday. None of the ensemble averages show it. IMN's long-range outlook calls for below-normal rain: about 5–90 mm (up to 3.5 inches) on the North Pacific for Oct 12–18 and 1–70 mm (up to about 2.75 inches) for Oct 19–25.",
+      "implications": "Drier, sunnier days are likely from Sunday, with good mornings and fewer afternoon storms. Saturday is the transition day and could still bring a shower.",
+      "confidence": "Moderate-high on the trades from Saturday to Tuesday, since the marine forecast and all three ensembles agree. Moderate on drier days. Low on the U.S. model's low."
+    },
+    {
+      "label": "Days 8–15 (Wed Oct 21 – Wed Oct 28)",
+      "pattern": "The models still split. The U.S. ensemble is the wettest. Its average puts roughly 20–35 mm (about an inch) a day around Nicoya from about Oct 21 to 25, with a broad wet zone over the Pacific off Costa Rica, and it lets the trades fade around Oct 23–24 before they return about Oct 26. The European ensemble keeps the trades going over Nicaragua through Oct 26 with a heavier rain band mostly south of Costa Rica on Oct 21–23. Nicoya sits near its edge at about 10–15 mm a day, and a weak low shows up off Nicaragua and Nicoya around Oct 24–26. The European AI ensemble is the driest. It holds strong trades through Oct 26 and gives Nicoya only light rain after Oct 21. The main U.S. model puts a low just off Nicoya around Oct 22 with a burst of heavy rain near the Nicoya coast, then develops a tropical storm far to the west, off Guatemala and southern Mexico, around Oct 24. IMN expects below-normal rain through Nov 8 and very dry conditions from about Oct 26.",
+      "implications": "Keep Oct 21–25 flexible for anything rain-sensitive. Some offshore mornings are possible in that window if the European ensembles are right. After about Oct 26 the lean is drier.",
+      "confidence": "Low-moderate on a wetter spell Oct 21–25, because the ensemble averages disagree. Moderate on the trades holding over Nicaragua through about Oct 22. Low on details after Oct 25."
+    }
+  ],
+  "surfWinds": {
+    "regime": "Today through Friday is a light-wind, Pacific-side pattern, not trade offshore. This morning has a light east wind in the Gulf of Papagayo that fades, so expect a short clean window at dawn and onshore or messy afternoons. Thursday: light north to northeast in the morning (side-offshore, fairly clean), turning west to northwest onshore in the afternoon. Friday: light north, side-shore all day. The Caribbean trades return Saturday (northeast 10 knots) and strengthen Sunday (northeast to east 10–15 knots), so Saturday through about Tuesday (Oct 17–20) should be offshore at Nosara, strongest in the mornings.",
+    "detail": "The Papagayo marine forecast (issued 1:31 a.m. PDT Wednesday) has east 10 knots this morning, going light and variable, with light and variable winds tonight that become northwest to north 10 late. Thursday is north to northeast 10, shifting west to northwest in the afternoon. Friday is north 10, Saturday and Saturday night northeast 10, Sunday northeast to east 10–15 and Sunday night east to southeast 10–15. Swell: south to southwest 5–7 feet at 15 seconds today and 4–6 feet at 14 seconds Thursday. A new long-period pulse shows up Thursday night at 19 seconds, then 4–6 feet at 17 seconds Friday and 5–7 feet at 16–15 seconds Friday night through Sunday. Farther north, off Guatemala and El Salvador, the forecast has it reaching 7–10 feet Sunday night. Nicaragua: all three ensembles keep easterly trades blowing over Nicaragua almost the whole period, strongest from about Sunday to Thursday (Oct 18–22). Nicaragua should be offshore all day then. That's a good sign for clean Nosara mornings, but not all-day offshore here. The main U.S. model's lows off Nicoya (around Oct 18–19 and Oct 22) would scramble the wind if they happen, but the ensembles don't show them.",
+    "bestWindows": "Dawn today before the afternoon onshore. Thursday early in the light north to northeast wind. Friday early as the new long-period swell fills in. The best bet of the next 10 days is the mornings from Saturday Oct 17 to about Tuesday Oct 20, with trades and solid 15–17 second swell. Sunday and Monday look strongest.",
+    "confidence": "High on light winds and onshore afternoons today and Thursday. Moderate-high on the trades from Saturday to Tuesday. Moderate on how long they hold past Oct 21."
+  },
+  "gyreWatch": {
+    "status": "Watch only, nothing established. About the same as yesterday. The window has slid a day later to about Oct 21–25.",
+    "possibleTiming": "About Oct 21–25.",
+    "supporting": "The U.S. ensemble average shows a broad wet zone over the Pacific off Costa Rica, about 20–35 mm (around an inch) a day near Nicoya from about Oct 21 to 25, with the trades fading around Oct 23–24. The European ensemble has a heavier rain band just south of Costa Rica on Oct 21–23 and a weak low off Nicaragua and Nicoya around Oct 24–26. The main European model's run goes out only to Oct 24, and it shows a wet band over the Pacific near Costa Rica around Oct 19–22. The main U.S. model puts a low just off Nicoya around Oct 22 with heavy rain on the Nicoya coast. That's one run, 8 days out. The U.S. tropics outlook (updated Oct 13) keeps low odds (about 20%) of new storm development in the eastern Pacific in late October.",
+    "conflicting": "The European AI ensemble keeps strong easterly trades across Nicaragua and Nicoya through Oct 26 and only light rain on Nicoya after Oct 21, which is the opposite of a soaking pattern. The European ensemble also holds the trades over Nicaragua through Oct 26. IMN expects below-normal rain through Nov 8, with low odds of an extreme event (about 15% for Oct 19–25) and very dry conditions from about Oct 26. The U.S. tropics outlook says the trades are strengthening north of the equator, which lowers the odds of new storms, and it doesn't mention a Central American gyre. Tropical Storm Trudy is heading northwest toward southern Mexico, away from us, and the hurricane center expects no other storms in the next 7 days, including in the Caribbean."
+  },
+  "whatChanged": "IMN says the tropical shower band is now back over Costa Rica, with more moisture today and a chance of showers continuing into the evening on the Pacific side. Nicoya's high is about the same, near 34°C. The storm the hurricane center was watching became Tropical Storm Trudy, still heading away toward southern Mexico. Marine forecast: the trades now start Saturday (northeast 10 knots) instead of Saturday night, and Sunday is now northeast to east 10–15 knots. Thursday morning is now north to northeast instead of northwest. The new long-period pulse is now 19 seconds Thursday night (yesterday it was 16–17), but today's swell is a little smaller at 5–7 feet instead of yesterday's 6–8. The offshore stretch moved a day earlier, to about Oct 17–20 (yesterday Oct 18–21). The prolonged-rain window slid a day later, from about Oct 21–24 to Oct 21–25. It's about as likely as yesterday: the U.S. ensemble is wetter, while the European AI ensemble is drier. The U.S. tropics outlook updated: it now says strengthening trades lower the odds of new storms, with about 20% odds in the eastern Pacific late in the month.",
+  "practical": "Today and Thursday: go out early and plan afternoons and evenings around possible storms. It's hot. Thursday and Friday early: workable light north winds as a new long-period swell arrives Thursday night. Saturday Oct 17 to about Tuesday Oct 20: the best offshore surf mornings of the coming 10 days, with Sunday and Monday looking strongest. Keep Oct 21–25 flexible for anything rain-sensitive. No tropical storm threat to Costa Rica.",
+  "alerts": [
+    {
+      "name": "IMN's latest aviso is from Mon 12 Oct, 9:30 a.m. (scattered downpours with thunder). No new aviso was posted as of Wednesday morning. Today's regional forecast calls for possible scattered afternoon downpours with thunder on the North Pacific.",
+      "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos"
+    }
+  ],
+  "sources": [
+    {
+      "name": "IMN regional forecast (Wed 14 Oct): Pacífico Norte rain over nearby waters before dawn, few to partly cloudy morning, possible scattered afternoon downpours with storms, possible scattered rain at night; Nicoya high 34.2°C, Liberia 34.1°C; Intertropical Convergence Zone reactivating over the region",
+      "url": "https://www.imn.ac.cr/web/imn/reporte-pronostico-regional"
+    },
+    {
+      "name": "IMN weekly outlook (12–18 Oct): ITCZ repositioning over the isthmus midweek; heavier showers Wed–Thu; coastal morning rain Wed–Fri; afternoon storms more isolated in western Pacífico Norte",
+      "url": "https://www.imn.ac.cr/web/imn/tendencia-semanal"
+    },
+    {
+      "name": "IMN sub-seasonal (12 Oct–8 Nov): below-normal rain; Pacífico Norte 5–90 mm (12–18 Oct), 1–70 mm (19–25 Oct), 1–70 mm (25 Oct–1 Nov); very dry from 26 Oct; extreme-event odds ~20% / 15% / 10%",
+      "url": "https://www.imn.ac.cr/pronostico-subestacional"
+    },
+    {
+      "name": "IMN avisos (latest: Mon 12 Oct, 9:30 a.m., aguaceros con tormenta dispersos)",
+      "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos"
+    },
+    {
+      "name": "NHC East Pacific TWO (5 a.m. PDT Wed 14 Oct): Hurricane Simon WSW of Cabo Corrientes; Tropical Storm Trudy several hundred miles south of Acapulco; no other formation expected in 7 days",
+      "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7"
+    },
+    {
+      "name": "NHC 7-day East Pacific graphic (4:30 a.m. PDT Wed)",
+      "url": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
+    },
+    {
+      "name": "NHC Atlantic TWO (8 a.m. EDT Wed 14 Oct): no formation expected in 7 days, Caribbean included",
+      "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7"
+    },
+    {
+      "name": "NHC OFFPZ8 / PMZ113 Papagayo (1:31 a.m. PDT Wed 14 Oct): E 10 kt am then variable; tonight variable becoming NW–N 10; Thu N–NE 10 shifting W–NW pm; Fri N 10; Sat/Sat night NE 10; Sun NE–E 10–15; Sun night E–SE 10–15; S–SW swell 5–7 ft 15 s Wed, 4–6 ft 14 s Thu, 19 s Thu night, 17 s Fri, 5–7 ft 16–15 s Fri night–Sun",
+      "url": "https://www.nhc.noaa.gov/text/MIAOFFPZ8.shtml"
+    },
+    {
+      "name": "CPC Global Tropics Hazards discussion (updated 13 Oct, valid 21 Oct–3 Nov): enhanced trades developing north of the equator lower TC confidence; 20% TC odds SW of Mexico week 2 and across the eastern Pacific week 3; no Central American gyre mention",
+      "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"
+    },
+    {
+      "name": "Tropical Tidbits model maps (GEFS, EPS, AIFS-ENS, GFS, ECMWF)",
+      "url": "https://www.tropicaltidbits.com/analysis/models/"
+    }
+  ],
+  "modelsInspected": "Tropical Tidbits East Pacific domain, title bars checked on each frame: GEFS mean, ECMWF EPS mean, AIFS-ENS mean and ECMWF deterministic 00Z Wed 14 Oct; GFS 06Z Wed 14 Oct. 24-hour precip valid Oct 15–29 (GEFS, EPS, AIFS-ENS, GFS) and to Oct 24 (ECMWF deterministic); 850 hPa wind/MSLP from analysis to Oct 26 (ECMWF deterministic to Oct 20). Zoomed crops on Nicaragua, Costa Rica and the nearby Pacific; Nicoya rain values read from the color scale (approximate). Ensemble means only, no individual members inspected. charts.ecmwf.int not used."
+}
