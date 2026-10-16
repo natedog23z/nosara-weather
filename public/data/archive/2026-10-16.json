@@ -1,0 +1,85 @@
+{
+  "id": "2026-10-16",
+  "location": "Nosara, Guanacaste, Costa Rica",
+  "timezone": "America/Costa_Rica",
+  "updatedLocal": "Friday 16 Oct 2026, ~6:30 a.m. CST",
+  "takeaway": "A quieter, hot Friday after yesterday's soak. Costa Rica's weather service (IMN) has the North Pacific mostly sunny this morning, with only scattered afternoon showers or storms possible, and Nicoya near 34°C. The shower band sits offshore over the Pacific, so local heating drives today's weather. For surf, a light northeast wind this morning fades to light and variable later; the Caribbean trades firm up Saturday and strengthen Sunday through Tuesday, so Saturday to about Tuesday (Oct 17–20) is the offshore stretch to plan around, with swell building into the weekend. Hurricane Trudy and Tropical Storm Simon stay well off Mexico. A new low may form south of Mexico next week (about 60% chance) and drift west, away from us. Multi-day soaking rain stays watch-only and looks less likely than yesterday for late next week.",
+  "periods": [
+    {
+      "label": "Days 1–3 (Fri–Sun, Oct 16–18)",
+      "pattern": "IMN says the tropical shower band sits out over the Pacific today, so local heat and sea breezes set the weather. Pacífico Norte: few clouds this morning, partly cloudy this afternoon with a chance of isolated downpours and storms, partly cloudy tonight. Nicoya high about 34°C. Model averages put light to moderate rain on Nicoya Friday into Saturday — roughly a few millimeters up to about half an inch (around 5–15 mm) a day as afternoon showers, with heavier spots possible offshore and farther south. IMN's weekly outlook flips from scattered Thursday–Saturday to more widespread rain from Sunday on, tied to the shower band reactivating south of the region plus tropical wave #51. The marine forecast keeps a northeast wind near Papagayo today and Saturday, then east 10–15 knots Sunday.",
+      "implications": "Get outdoor plans done this morning and early afternoon. Expect a possible storm late day, not a washout. Sunday may bring more widespread showers than today or Saturday. It's hot and muggy.",
+      "confidence": "High on a hot Friday with only hit-or-miss afternoon storms. Moderate on how much rain Sunday brings with the wave."
+    },
+    {
+      "label": "Days 4–7 (Mon–Thu, Oct 19–22)",
+      "pattern": "The Caribbean trades are the main story. The marine forecast has east wind 10–15 knots Sunday night through Tuesday, and northeast to east 20–25 knots in the Gulf of Papagayo Tuesday night. Ensemble averages show easterly trades across Nicaragua and northern Costa Rica by midweek. Rain stays hit-or-miss: with the trades, the heaviest activity often shifts toward the mountains and Caribbean slope, but model averages still give Nicoya roughly 5–20 mm (up to about 0.75 inch) on some days, mostly as afternoon showers. IMN's long-range outlook still calls for below-normal rain on the North Pacific: about 5–90 mm (up to 3.5 inches) for Oct 12–18 and 1–70 mm (up to about 2.75 inches) for Oct 19–25.",
+      "implications": "Expect clean mornings and a chance of an afternoon shower or storm. Best outdoor windows are early. Keep an eye on Tuesday night's stronger Papagayo wind if you're near the gulf.",
+      "confidence": "Moderate-high on the trades Monday into Wednesday, since the marine forecast and most ensembles agree. Moderate on day-to-day rain amounts."
+    },
+    {
+      "label": "Days 8–15 (Fri Oct 23 – Fri Oct 30)",
+      "pattern": "The ensembles agree more than yesterday on holding easterly trades into late October, which favors a drier Pacific side relative to a full soak. Daily rain near Nicoya in the averages is mostly light to moderate (roughly 0.1–0.75 inch / a few millimeters to about 20 mm) rather than a multi-day dump. The European AI ensemble is the driest by about Oct 26. The hurricane center expects a new low to form well off southern Mexico early to mid next week and move west to west-northwest, away from Costa Rica. IMN still expects below-normal rain through Nov 8 and very dry conditions from about Oct 26, with low odds of an extreme event.",
+      "implications": "Lean toward a typical late-October mix, not a prolonged washout. After about Oct 26 the outlook favors drier days. Keep one eye on anything rain-sensitive around Oct 23–25, but the soaking signal has faded versus yesterday.",
+      "confidence": "Moderate on trades and no established soak through about Oct 25. Low on exact day-to-day details after Oct 26."
+    }
+  ],
+  "surfWinds": {
+    "regime": "Today is a light-wind day with a weak northeast start that fades — not a strong trade pattern. The Caribbean trades return Saturday (northeast about 10 knots), hold, and strengthen Sunday through Tuesday (east 10–15 knots, then stronger in Papagayo Tuesday night). That means Saturday through about Tuesday (Oct 17–20) should be offshore at Nosara, cleanest in the mornings.",
+    "detail": "The Papagayo marine forecast (issued 3:08 a.m. PDT Friday) has northeast 10 knots today, then variable under 5 knots tonight becoming north to northeast 10 late. Saturday is northeast 10, Saturday night northeast to east 10, Sunday and Sunday night east 10–15, Monday east 10–15, Monday night east to southeast 10–15, Tuesday east 10–15, and Tuesday night northeast to east 20–25 knots in the Gulf of Papagayo (10–15 elsewhere). The zone just south of us stays southwest to west about 10 knots through Saturday, so Nosara sits near the boundary today — expect a cleaner early morning, then a local sea breeze and possible storm gusts that chop the faces. Swell: south to southwest 4–6 feet at 17 seconds today and tonight, 5–7 feet Saturday, 6–8 feet Saturday night through Sunday night, and 6–8 feet Monday easing to 5–7 Tuesday. Nicaragua: ensembles show easterly trades over Nicaragua from the weekend into midweek and often longer, so Nicaragua should be offshore all day for much of that stretch. That's a good sign for clean Nosara mornings, but not all-day offshore here.",
+    "bestWindows": "Early this morning in the light northeast before the sea breeze. Best bet of the next week: mornings Saturday Oct 17 through about Tuesday Oct 20, with Sunday and Monday looking strongest (firmer offshore wind plus the bigger 6–8 foot, 14–16 second swell). Tuesday night's stronger Papagayo pulse may help Wednesday morning too.",
+    "confidence": "High on light winds today. Moderate-high on trades Saturday through Tuesday from the marine forecast. Moderate on how long the clean pattern holds past Oct 21."
+  },
+  "gyreWatch": {
+    "status": "Watch only, nothing established. Lower than yesterday — the late-week soaking signal has eased.",
+    "possibleTiming": "No clear window; loosely watch Oct 23–25 if showers cluster, then the lean is drier.",
+    "supporting": "IMN's weekly outlook expects more widespread rain from Sunday with tropical wave #51 and a reactivated shower band south of the region. Some ensemble days still put half an inch or so near Nicoya into next week. Ground near the Gulf of Nicoya was recently wet, so any heavy burst still runs off fast.",
+    "conflicting": "Ensemble averages through about Oct 26 show easterly trades returning and holding, with only light to moderate daily rain near Nicoya — not a multi-day Pacific soak. The European AI ensemble is especially dry by Oct 26. IMN's long-range outlook calls for below-normal rain through Nov 8, low extreme-event odds (about 15% for Oct 19–25, 10% after), and very dry conditions from about Oct 26. The U.S. tropics outlook says trades are strengthening north of the equator and does not flag a Central American gyre. Trudy, Simon, and the possible new storm next week all stay well off southern Mexico and move away from us. Nothing expected in the Caribbean for 7 days."
+  },
+  "whatChanged": "Yesterday's heavy morning coastal-rain alert is no longer the story — IMN's Friday regional forecast is just isolated afternoon storms on the North Pacific, with the shower band offshore. Nicoya's high is about 34°C. The marine forecast now starts northeast today (not just Saturday), strengthens to east 10–15 Sunday through Tuesday, and adds a stronger Papagayo pulse Tuesday night (20–25 knots). Swell timing is similar, with 6–8 feet Saturday night through Monday. The hurricane center raised the odds of a new low south of Mexico to about 60% (from 30%), still moving west away from us; Simon is a tropical storm and Trudy a hurricane, both off Mexico. Model averages dialed back the Oct 20–25 wet spell — trades look more persistent and the prolonged-rain watch is lower than yesterday. IMN's weekly now flags tropical wave #51 from Sunday.",
+  "practical": "Today: do outdoor plans this morning; watch for an isolated afternoon storm; it's hot. Surf early today, then prioritize mornings Saturday Oct 17 through about Tuesday Oct 20 — Sunday and Monday look best. Keep an umbrella handy Sunday if the wave brings more showers. No tropical storm threat to Costa Rica.",
+  "alerts": [],
+  "sources": [
+    {
+      "name": "IMN regional forecast (Fri 16 Oct): Pacífico Norte little cloudy morning; afternoon partly cloudy with possible isolated downpours/storms; night partly cloudy; Nicoya high 33.8°C, Liberia 35.6°C; ITCZ offshore, local factors dominate",
+      "url": "https://www.imn.ac.cr/web/imn/reporte-pronostico-regional"
+    },
+    {
+      "name": "IMN weekly outlook: scattered Thu–Sat, more generalized from Sunday with ITCZ south of region + tropical wave #51; weak winds, warm/muggy",
+      "url": "https://www.imn.ac.cr/web/imn/tendencia-semanal"
+    },
+    {
+      "name": "IMN sub-seasonal (12 Oct–8 Nov): below-normal rain; Pacífico Norte 5–90 mm (12–18 Oct), 1–70 mm (19–25 Oct); very dry from 26 Oct; extreme-event odds ~20%/15%/10%",
+      "url": "https://www.imn.ac.cr/pronostico-subestacional"
+    },
+    {
+      "name": "IMN avisos: latest listed Thu 15 Oct (scattered intense downpours); no new Friday morning alert on the avisos page at briefing time",
+      "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos"
+    },
+    {
+      "name": "NHC East Pacific TWO (5 a.m. PDT Fri 16 Oct): TS Simon SSE of Baja; Hurricane Trudy SW of Acapulco; low off southern Mexico early–mid next week, 0% 48 h / 60% 7 days, moving W–WNW",
+      "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7"
+    },
+    {
+      "name": "NHC 7-day East Pacific graphic (4:35 a.m. PDT Fri): Simon & Trudy; 40–60% formation area south of southern Mexico",
+      "url": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
+    },
+    {
+      "name": "NHC Atlantic TWO (8 a.m. EDT Fri 16 Oct): no formation expected in 7 days, Caribbean included",
+      "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7"
+    },
+    {
+      "name": "NHC OFFPZ8 / PMZ113 Papagayo (3:08 a.m. PDT Fri 16 Oct): NE 10 today; variable <5 tonight becoming N–NE 10; Sat NE 10; Sat night NE–E 10; Sun–Tue E 10–15; Tue night NE–E 20–25 Papagayo; S–SW swell 4–6 ft 17 s Fri, 5–7 Sat, 6–8 Sat night–Mon, 5–7 Tue. PMZ115 SW–W 10 through Sat",
+      "url": "https://www.nhc.noaa.gov/text/MIAOFFPZ8.shtml"
+    },
+    {
+      "name": "CPC Global Tropics Hazards discussion (updated 13 Oct, valid 21 Oct–3 Nov): enhanced trades developing north of the equator; 20% TC odds SW of Mexico week 2 / eastern Pacific week 3; no Central American gyre mention",
+      "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"
+    },
+    {
+      "name": "Tropical Tidbits model maps (GEFS, EPS, AIFS-ENS, GFS, ECMWF)",
+      "url": "https://www.tropicaltidbits.com/analysis/models/"
+    }
+  ],
+  "modelsInspected": "Tropical Tidbits North America domain, title bars checked on each frame: GEFS mean 06Z Fri 16 Oct; ECMWF EPS mean, AIFS-ENS mean, and ECMWF deterministic 00Z Fri 16 Oct; GFS deterministic 06Z Fri 16 Oct. 24-hour precip and 850 hPa wind/MSLP from analysis/near-term through about Oct 26 (f240). Zoomed on Nicaragua, Costa Rica, and the nearby Pacific; Nicoya rain values approximate from color scales. Ensemble means only, no individual members inspected. NHC East Pacific 7-day graphic inspected. charts.ecmwf.int not used."
+}
