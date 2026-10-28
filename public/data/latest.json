@@ -1,47 +1,47 @@
 {
-  "id": "2026-10-27",
+  "id": "2026-10-28",
   "location": "Nosara, Guanacaste, Costa Rica",
   "timezone": "America/Costa_Rica",
-  "updatedLocal": "Tuesday 27 Oct 2026, ~6:30 a.m. CST",
-  "takeaway": "Dry, sunny, and hot again. Costa Rica's weather service (IMN) says a mass of dry air over Central America keeps rain odds low all week, with few clouds on the North Pacific today and Nicoya near 35°C. Surf stays offshore every morning through at least Saturday. The new long-period swell is in today, 4–6 ft at 17 seconds, and holds in the 16-second range through Thursday, with the trades getting stronger Thursday night into Friday. October ends dry. The early-November wet spell came back a bit stronger overnight, now centered around Nov 4–6. No tropical threat, and the prolonged-rain watch stays low.",
+  "updatedLocal": "Wednesday 28 Oct 2026, ~6:40 a.m. CST",
+  "takeaway": "Another dry, sunny, hot day, and the rest of the week looks the same. Costa Rica's weather service (IMN) says low moisture over southern Central America keeps clouds and showers mostly in the mountains and the Central and South Pacific, with Nicoya near 34°C. Surf stays offshore every morning through at least Sunday, and the trades get stronger from Friday through the weekend. The 16-second swell holds through Thursday, and a slightly bigger 15–16-second southwest swell fills in Saturday and Sunday. The early-November wet spell is still there but a touch earlier and a little lighter than yesterday's run, now around Nov 2–5. No tropical threat, and the prolonged-rain watch stays low.",
   "periods": [
     {
-      "label": "Days 1–3 (Tue–Thu, Oct 27–29)",
-      "pattern": "IMN's Tuesday forecast for the North Pacific is few clouds with occasional gusts in the hills overnight and this morning, then mostly clear this afternoon and tonight. Nicoya's high is about 35°C with a low near 22°C, and Liberia reaches about 35°C. IMN says the country stays very stable this week because of dry air over Central America and the Caribbean. Any showers stay in the mountains of the South Pacific and southern Caribbean. Every model keeps Nosara at 1–3 mm a day or less.",
-      "implications": "Great days for anything outdoors. It gets hot by late morning, so plan the beach and errands early, and bring water.",
+      "label": "Days 1–3 (Wed–Fri, Oct 28–30)",
+      "pattern": "IMN's Wednesday forecast for the North Pacific is clear to a few clouds early, partly cloudy through the day, and a few clouds tonight. Nicoya's high is about 34°C with a low near 22–23°C, and Liberia reaches about 35°C. Afternoon storms stay in the mountains and along the Central and South Pacific coasts. Every model keeps Nosara at 1–2 mm a day or less.",
+      "implications": "More great outdoor days. It heats up fast by late morning, so do the beach and errands early and bring water.",
       "confidence": "High."
     },
     {
-      "label": "Days 4–7 (Fri Oct 30 – Mon Nov 2)",
-      "pattern": "The northeast-to-east breeze keeps blowing across Nicaragua and northern Costa Rica in every model. Nosara stays near dry, 1–3 mm a day, through Sunday. On Monday the American average shows up to about 9 mm (a third of an inch), the European averages only 2–4 mm. The regular European run shows a weak, shallow low just off Nicoya around Saturday evening, but it brings almost no rain here.",
-      "implications": "Mostly dry, sunny, and breezy through the weekend. A passing evening shower becomes possible by Monday, nothing that should wreck plans.",
-      "confidence": "High through Sunday, moderate for Monday."
+      "label": "Days 4–7 (Sat Oct 31 – Tue Nov 3)",
+      "pattern": "The northeast-to-east breeze keeps blowing across Nicaragua and northern Costa Rica in every model through Monday, and it's strongest over the weekend. Saturday stays near dry. From Sunday the rain band that sits offshore to the south starts creeping north, with the model averages showing about 3–6 mm on Sunday, 4–9 mm on Monday, and about 6–16 mm (up to two-thirds of an inch) on Tuesday Nov 3. This is Pacific-side moisture, not Caribbean rain.",
+      "implications": "A dry, sunny, breezy weekend. A passing late-day shower becomes possible Sunday or Monday, and Tuesday is the first day that could see a real downpour. Plan outdoor things for Saturday and earlier in the day.",
+      "confidence": "High through Saturday, moderate for Sunday to Tuesday."
     },
     {
-      "label": "Days 8–15 (Tue Nov 3 – Tue Nov 10)",
-      "pattern": "The band of tropical showers that has sat south of Costa Rica drifts north over the Nicoya coast. Near Nosara, the model averages show about 6–9 mm a day on Nov 3, then a peak around Nov 4 of roughly 16–29 mm (0.6–1.1 inch) in the day, up from 9–16 mm in yesterday's run. Amounts ease to about 9–16 mm on Nov 6 and drop to a few millimeters a day by Nov 8–10. The regular European run, dry in yesterday's version, now shows about 16 mm on Nov 3 and about 35 mm (1.4 inch) on Nov 5. The trades still blow over Nicaragua, but they go lighter near Nosara around Nov 4–6. IMN's long-range outlook still calls for drier than normal on the Pacific side through Nov 22, with the dry season settling in on the North Pacific.",
-      "implications": "Keep Nov 3–6 a little flexible. A couple of showery afternoons or evenings look more likely than they did yesterday, possibly with a heavier downpour. It still doesn't look like a multi-day soaking.",
-      "confidence": "High on a dry end to October. Moderate that early November turns showery, low on how much rain falls."
+      "label": "Days 8–15 (Wed Nov 4 – Wed Nov 11)",
+      "pattern": "The wettest stretch now looks like Nov 3–5, with the model averages near Nosara at about 11–16 mm (roughly half an inch) a day. That's a day earlier and a bit lighter than yesterday's peak of 16–29 mm. The trades fade near Nosara around Nov 4–5, then come back over Nicaragua by about Nov 7–9. After that the European averages dry out to a few millimeters a day by Nov 8–11, while the American average keeps light showers (about 6–9 mm a day) going. IMN's long-range outlook still calls for drier than normal on the Pacific side through Nov 22, with the dry season settling in on the North Pacific in early November.",
+      "implications": "Keep Nov 3–5 a little flexible for showery afternoons or evenings, maybe one heavier downpour. It still doesn't look like a multi-day soaking, and things should dry out again by the end of next week.",
+      "confidence": "High on a dry end to October. Moderate that Nov 3–5 turns showery, low on how much rain falls and on Nov 8–11."
     }
   ],
   "surfWinds": {
-    "regime": "Caribbean trades, so it's offshore at Nosara every morning through at least Saturday. Winds are light to moderate today through Thursday, then stronger from Thursday night into Friday.",
-    "detail": "The Papagayo marine forecast (issued 1:44 a.m. Costa Rica time) has northeast winds of 10–15 knots today, with 4–6 ft of west swell at 17 seconds. Tonight it's northeast 10 knots, 15–20 knots out in the Gulf of Papagayo, with south-southwest swell at 17 seconds. Wednesday is northeast 10–15 with 3–5 ft at 16 seconds. Thursday turns northeast to east 10–15 with 4–6 ft at 16 seconds. Friday is the windiest, northeast to east 20 knots in the gulf and 10–15 elsewhere, with 4–6 ft at 14 seconds, and Saturday stays northeast to east 10–15 with 4–6 ft at 15–16 seconds. One caution: the waters just south of the peninsula have a west-northwest wind turning northeast this afternoon, southeast breezes Wednesday and Thursday, and scattered showers and storms. Nosara sits near that edge, so afternoons could go side-on sooner than further north. Nicaragua looks offshore all day through the weekend, a good sign for clean Nosara mornings, but Nosara won't necessarily stay offshore all day. Around Nov 4–6 the models weaken the trades near Nosara, which would bring more onshore afternoons.",
-    "bestWindows": "This morning through Thursday morning for the 16–17-second swell in light offshore wind. Long-period sets come bigger and less often than the average height suggests, and rip currents get stronger. Friday and Saturday mornings bring southwest swell at 14–16 seconds in firmer offshore wind, so early is cleanest and the afternoon may get a little bumpy.",
-    "confidence": "High on offshore mornings through Saturday. Moderate on how long afternoons hold. Low to moderate for the Nov 4–6 stretch."
+    "regime": "Caribbean trades, so it's offshore at Nosara every morning through at least Sunday. Light to moderate today and Thursday, then stronger from Friday through the weekend.",
+    "detail": "The Papagayo marine forecast (issued 2:01 a.m. Costa Rica time) has northeast to east winds of 10–15 knots today with 4–6 ft of swell at 16 seconds. Thursday is northeast to east 10–15 knots near the coast and 15–20 in the Gulf of Papagayo, still 4–6 ft at 16 seconds. Friday the gulf picks up to 20–25 knots, 10–15 elsewhere, with 4–6 ft at 14 seconds. Saturday and Sunday stay firm, northeast 10–15 near the coast and up to 15–25 knots out in the gulf on Sunday, with a slightly bigger 5–7 ft southwest swell at 15–16 seconds. One caution: the waters just south of the peninsula have variable winds and scattered showers and storms through Thursday, with west to southwest breezes some nights from Friday on. Nosara sits near that edge, so afternoons can turn side-on or onshore sooner than further north. Nicaragua looks offshore all day through the weekend, a good sign for clean Nosara mornings, but Nosara won't necessarily hold offshore all day. Around Nov 4–5 the models fade the trades near Nosara, which means more onshore afternoons, before they return around Nov 7–9.",
+    "bestWindows": "Early mornings today and Thursday for the 16-second swell in light offshore wind. Long-period sets come bigger and less often than the average height suggests, and rip currents run stronger. Saturday and Sunday mornings look good too, with more size from the southwest and firmer offshore wind, so go early before the afternoon gets bumpy.",
+    "confidence": "High on offshore mornings through Sunday. Moderate on how long afternoons hold. Low to moderate for Nov 4–5."
   },
   "gyreWatch": {
-    "status": "Watch only, still low, but slightly higher than yesterday. Nothing is building in the next week.",
-    "possibleTiming": "If anything comes, it's around Nov 3–6.",
-    "supporting": "All the model averages bring the shower band south of Costa Rica north over Nicoya in early November, and today's runs are wetter than yesterday's, peaking around Nov 4. The regular European run now agrees, with a wet Nov 5 and weak shallow lows off Nicoya on Oct 31 and southwest of Costa Rica on Nov 2.",
-    "conflicting": "No model shows a broad, slow-spinning low parked off Costa Rica, and the trades keep blowing over Nicaragua, which works against a soaking setup. The wet signal is only a few days long and fades by Nov 8. IMN expects dry conditions on the Pacific side for Nov 2–8 and drier than normal through Nov 22, with low odds (about 10%) of an extreme event. The U.S. hurricane center expects no new storms in the East Pacific or the Caribbean in the next week. Tropical Storm Vance is far away, southwest of Manzanillo, Mexico."
+    "status": "Watch only, still low, about the same as yesterday. Nothing is building in the next week.",
+    "possibleTiming": "If anything comes, it's around Nov 3–5.",
+    "supporting": "All the model averages bring the shower band from south of Costa Rica north over Nicoya in early November, with the trades fading near Nosara around Nov 4–5. The American average keeps some showers going through Nov 11. NOAA's tropics outlook (updated Oct 27) says weaker easterly winds south of Mexico in the Nov 4–10 window could briefly favor a late-season storm forming in the East Pacific.",
+    "conflicting": "No model shows a broad, slow-spinning low parked off Costa Rica, and the trades keep blowing over Nicaragua most of the period, which works against a soaking setup. Today's runs are a bit lighter than yesterday's, and the regular European run backed off its wettest day. IMN expects dry conditions on the Pacific side for Nov 2–8 and drier than normal through Nov 22, with low odds (about 10%) of an extreme event. The U.S. hurricane center expects no new storms in the East Pacific or the Caribbean in the next week. Tropical Storm Vance is far away, west-southwest of Cabo Corrientes, Mexico."
   },
-  "whatChanged": "The early-November wet signal came back stronger: the model averages now peak around Nov 4 at roughly 16–29 mm, up from 9–16 mm, and the regular European run went from mostly dry to wet on Nov 3–5. The offshore pattern now runs through Saturday, and Friday's trades look stronger than yesterday's call. The long-period swell arrived on schedule today at 17 seconds. IMN's weekly and long-range outlooks are unchanged, and there are no new IMN notices since Sunday's for the Central and South Pacific.",
-  "practical": "Surf early each morning this week while the long-period swell runs in light offshore wind, and watch for stronger rip currents. Friday and Saturday mornings are still offshore, just windier. The week stays sunny, hot, and dry, so it's a good stretch for outdoor plans. Keep Nov 3–6 flexible for a few showery afternoons or evenings. There's no tropical storm threat to Costa Rica.",
+  "whatChanged": "The early-November wet spell moved about a day earlier (now Nov 3–5 rather than Nov 4–6) and came in a little lighter, peaking around 11–16 mm a day instead of 16–29 mm. The regular European run's wettest day dropped from about 35 mm to about 16 mm. The offshore pattern now runs through Sunday, the weekend trades look stronger than yesterday's call, and a slightly bigger 5–7 ft southwest swell is now forecast for Saturday and Sunday. NOAA's tropics outlook has a new update with a brief East Pacific storm window in early November, far from Costa Rica. IMN's outlooks are unchanged, and there are no new IMN notices since Sunday.",
+  "practical": "Surf early each morning this week while offshore winds hold, and plan on the weekend for a bit more size with firmer offshore wind. Watch for stronger rip currents with the long-period swell. The weather stays sunny, hot, and dry through Saturday, so it's a good stretch for outdoor plans. Keep Nov 3–5 flexible for a few showery afternoons or evenings. There's no tropical storm threat to Costa Rica.",
   "alerts": [],
   "sources": [
     {
-      "name": "IMN regional forecast (Tue Oct 27)",
+      "name": "IMN regional forecast (Wed Oct 28)",
       "url": "https://www.imn.ac.cr/web/imn/reporte-pronostico-regional"
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos"
     },
     {
-      "name": "NHC East Pacific outlook (5 a.m. PDT Tue)",
+      "name": "NHC East Pacific outlook (5 a.m. PDT Wed)",
       "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7"
     },
     {
@@ -65,21 +65,21 @@
       "url": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
     {
-      "name": "NHC Atlantic/Caribbean outlook (8 a.m. EDT Tue)",
+      "name": "NHC Atlantic/Caribbean outlook (8 a.m. EDT Wed)",
       "url": "https://www.nhc.noaa.gov/text/MIATWOAT.shtml"
     },
     {
-      "name": "NHC Papagayo marine forecast, PMZ111/PMZ113/PMZ115 (12:44 a.m. PDT Tue)",
+      "name": "NHC Papagayo marine forecast, PMZ111/PMZ113/PMZ115 (1:01 a.m. PDT Wed)",
       "url": "https://www.nhc.noaa.gov/text/MIAOFFPZ8.shtml"
     },
     {
-      "name": "CPC Global Tropics Hazards discussion (Oct 20, unchanged)",
+      "name": "CPC Global Tropics Hazards discussion (updated Oct 27)",
       "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"
     },
     {
-      "name": "Tropical Tidbits model maps: GEFS / EPS / AIFS-ENS / GFS / ECMWF, 00Z Tue Oct 27",
+      "name": "Tropical Tidbits model maps: GEFS / EPS / AIFS-ENS / GFS / ECMWF, 00Z Wed Oct 28",
       "url": "https://www.tropicaltidbits.com/analysis/models/"
     }
   ],
-  "modelsInspected": "Tropical Tidbits East Pacific domain, init 00Z Tue 27 Oct checked on each frame's title bar: GEFS mean, ECMWF EPS mean, AIFS-ENS mean, GFS and ECMWF deterministic. 24-hour precipitation f024–f360 (ECMWF deterministic f024–f240, 3-hourly frames) and 850 hPa wind/MSLP f000–f288 (ECMWF f000–f144), zoomed on Nicoya/Nicaragua, with colorbar-sampled values at Nosara. Ensemble means only; individual members not inspected."
+  "modelsInspected": "Tropical Tidbits East Pacific domain, init 00Z Wed 28 Oct checked on frame title bars: GEFS mean, ECMWF EPS mean, AIFS-ENS mean, GFS and ECMWF deterministic. 24-hour precipitation f024–f360 (ECMWF deterministic f024–f240) and 850 hPa wind/MSLP f000–f288 (ECMWF f000–f144), zoomed on Nicoya/Nicaragua, with colorbar-sampled values at Nosara. Ensemble means only; individual members not inspected. NHC 7-day graphic not downloaded this run (text outlook used)."
 }
