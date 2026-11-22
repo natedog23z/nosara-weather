@@ -1,50 +1,47 @@
 {
-  "id": "2026-11-21",
+  "id": "2026-11-22",
   "location": "Nosara, Guanacaste, Costa Rica",
   "timezone": "America/Costa_Rica",
-  "updatedLocal": "Saturday 21 Nov 2026, ~6:00 a.m. CST",
-  "takeaway": "Dry season is locked in. Costa Rica's weather service (IMN) has clear, sunny, breezy weather on the North Pacific all day today, with Nicoya near 34°C and no rain chance. The strong gusts from earlier this week have eased to occasional gusts near the mountains, mostly early in the day. For surf, the Caribbean trade winds stay offshore at Nosara. They are steady today through Monday, ease to their lightest Tuesday and Wednesday, then build again from about Friday Nov 27 into early December. Dawn to late morning is the best window every day. No rainy spell and no tropical storm threat for the next two weeks.",
+  "updatedLocal": "Sunday 22 Nov 2026, ~6:00 a.m. CST",
+  "takeaway": "Dry season continues. Costa Rica's weather service (IMN) has a clear, hot Sunday on the North Pacific, with Nicoya near 37°C, a few afternoon clouds, and no rain expected here. Showers today stay over the Central Valley and the southern mountains. The trade winds are weaker over most of the country today, so it will feel muggier than last week. For surf, the Caribbean trades stay offshore at Nosara. They're steady in the Papagayo area through Monday, lightest Tuesday and Wednesday, then pick back up from Thursday Nov 26, a day earlier than yesterday's call. Dawn to late morning is the best window every day. No rainy spell and no tropical storm threat for the next two weeks.",
   "periods": [
     {
-      "label": "Days 1–3 (Sat Nov 21 – Mon Nov 23)",
-      "pattern": "High pressure over northern Central America keeps a steady east-northeast trade wind flowing across Nicaragua and Guanacaste. IMN calls Saturday clear and windy on the North Pacific from dawn to night, with the only rain chance in the country on the South Pacific mountains in the afternoon. Both main models and all three ensemble averages show that steady trade-wind stream through Monday. The rain maps keep Nicoya at a trace or less each day, with the light showers on the Caribbean side.",
-      "implications": "Sunny and hot, around 34°C in the afternoon and near 21°C at night. Breezy, but less gusty than earlier in the week. A great weekend for anything outdoors. Pack sun protection and water, not rain gear.",
+      "label": "Days 1–3 (Sun Nov 22 – Tue Nov 24)",
+      "pattern": "IMN calls Sunday clear and hot on the North Pacific, with a few clouds in the afternoon and a mostly clear night. The trades are weak across the country, so a little sea-air moisture is sneaking into the Central Valley and the southern mountains, where afternoon showers are possible. The gap winds through the Papagayo area are still blowing from the northeast and east today and Monday. They ease by Tuesday. Both main models and all three ensemble averages keep Nicoya at a trace of rain or less each day.",
+      "implications": "Sunny and hot: around 36–37°C inland at Nicoya, low 30s at the beach, and about 23°C at night. Less wind means more sticky heat in the afternoon. A great stretch for being outside. Bring sun protection and water, not rain gear.",
       "confidence": "High."
     },
     {
-      "label": "Days 4–7 (Tue Nov 24 – Fri Nov 27)",
-      "pattern": "A short lull. The marine forecast drops the Papagayo winds to about 10–15 knots from the east Monday night and Tuesday, then about 10 knots from the north to northeast on Tuesday night and Wednesday. Around Wednesday, the European model shows a strong north wind surge into the southern Gulf of Mexico. Surges like that often come before stronger Caribbean trades a couple of days later, and the ensemble averages bring the trades back up by Friday. IMN's weekly outlook (Nov 19–25) keeps Guanacaste clear and very hot, with highs up to 37°C in the region during the lighter-wind days. The rain maps still keep Nicoya dry.",
-      "implications": "The hottest, stickiest days of the stretch, especially Tuesday and Wednesday afternoons with less breeze. Calm water makes these the best days for boat, paddle, or fishing trips. A stray afternoon shower is possible over the hills inland, but rain at the beach is unlikely.",
-      "confidence": "High on dry. Moderate on how light the wind gets midweek and when it picks back up."
+      "label": "Days 4–7 (Wed Nov 25 – Sat Nov 28)",
+      "pattern": "A short lull Tuesday night and Wednesday, with only light north to northeast breezes in the Papagayo area. Then a strong north wind surge pushes into the southern Gulf of Mexico around Wednesday and Thursday, in both main models. The trades build back behind it. The marine forecast now brings northeast to east winds of 15–20 knots back to Papagayo on Thursday, and the ensemble averages show a stronger east wind stream across Nicaragua and northern Costa Rica by Saturday. The extra wind brings rain to the Caribbean side. All three ensemble averages show about 0.5–1 inch on Costa Rica's and southern Nicaragua's Caribbean coast in the 24 hours ending Friday evening. Nicoya stays at a trace.",
+      "implications": "Tuesday and Wednesday afternoons are the hottest and calmest. They're good days for boat, paddle, or fishing trips. From Thursday it gets breezier, dustier, and a little less hot. A stray afternoon shower over the inland hills is possible during the lull, but rain at the beach is unlikely.",
+      "confidence": "High on dry. Moderate on the exact day the trades return, Thursday vs Friday."
     },
     {
-      "label": "Days 8–15 (Sat Nov 28 – Sat Dec 5)",
-      "pattern": "A classic dry-season trade-wind pattern. All three ensemble averages show a stronger east-northeast wind stream across Nicaragua and northern Costa Rica from about Nov 28 to Dec 1, and the trades are still blowing through Dec 5. That wind brings rain to the Caribbean side: the American and European ensemble averages put about 0.5–1 inch in a day on Costa Rica's and southern Nicaragua's Caribbean coast in the 24 hours ending the evenings of Fri Nov 27 and Sun Nov 29. Nicoya stays at a trace to about 0.05 inch a day. The European ensemble average shows a weak low just off southern Costa Rica and Panama on Dec 1. That's the usual low that forms downwind of the mountains when trades blow hard, not a storm. IMN's sub-seasonal outlook has the North Pacific at 0–50 mm for each of the weeks of Nov 23–29 and Nov 30–Dec 6, with a low chance of extreme rain and below-normal rain countrywide.",
-      "implications": "Plan freely. Expect sunny, windy, dusty days and warm, breezy nights. Tie down loose gear and be careful with fire once the trades pick back up. Boat trips will be rougher around Nov 28 to Dec 1.",
-      "confidence": "High on dry. Moderate on the timing and strength of the trade-wind push."
+      "label": "Days 8–15 (Sun Nov 29 – Sun Dec 6)",
+      "pattern": "A classic dry-season trade-wind pattern. All three ensemble averages keep a steady east wind stream across Nicaragua and northern Costa Rica from Nov 28 through at least Dec 2, still blowing through Dec 6. The ensemble rain maps keep light Caribbean-side showers going, with Nicoya at a trace to about 0.05 inch a day. The European ensemble average again shows a weak low off southern Costa Rica and Panama around Dec 2. That's the usual low that forms downwind of the mountains when the trades blow hard, not a storm. The heavier rain on the maps stays well offshore to the south. IMN's sub-seasonal outlook has the North Pacific at 0–50 mm for the week of Nov 23–29, with below-normal rain countrywide into early December and a low chance of extreme rain.",
+      "implications": "Plan freely. Expect sunny, windy, dusty days and warm, breezy nights. Tie down loose gear and be careful with fire. Boat trips will be choppier on the windier days around Nov 27 to Dec 2.",
+      "confidence": "High on dry. Moderate on how strong the trades get."
     }
   ],
   "surfWinds": {
-    "regime": "Caribbean trade winds (east-northeast), offshore at Nosara, all period. Steady today through Monday, lightest Tuesday and Wednesday, then stronger from about Fri Nov 27 through Dec 1. No Pacific onshore pattern in sight.",
-    "detail": "The Papagayo marine forecast (issued about 2:40 a.m. Costa Rica time) has northeast to east winds of 15–20 knots offshore in the Gulf of Papagayo today through Sunday night (10–15 knots elsewhere), 15–20 knots Monday, east 10–15 knots Monday night and Tuesday, then north to northeast around 10 knots Tuesday night and Wednesday. It says the winds pulse strongest each night. Off the Nicoya coast and south, winds stay light and variable (under 5 knots), so the offshore breeze reaches Nosara over the land, not along the coast. Swell (open-ocean numbers, not beach heights): south to southwest 4–7 ft at 14–16 seconds through Wednesday, bumping to 5–7 ft at 16 seconds south of the peninsula on Tuesday. Nicaragua should be offshore all day through Monday, which points to clean Nosara mornings. That doesn't mean all day offshore here: the afternoon sea breeze can turn it side-on. During the Tuesday–Wednesday lull, expect the morning offshore to be lighter and the sea breeze to arrive earlier.",
-    "bestWindows": "Today through Monday: dawn to late morning. It may stay clean past noon on the windier days. Tuesday and Wednesday: dawn to mid-morning, then likely bumpy from the sea breeze. Nov 27 to Dec 1: dawn to late morning, and offshore could hold most of the day, though gusty.",
-    "confidence": "High on offshore mornings all period. Moderate on afternoon sea-breeze timing and strength at the beach."
+    "regime": "Caribbean trade winds (northeast to east), offshore at Nosara, through the whole period. Steady through Monday, lightest Tuesday night and Wednesday, then building again from Thursday Nov 26. No Pacific onshore pattern in sight.",
+    "detail": "The Papagayo marine forecast (issued about 2:36 a.m. Costa Rica time) has northeast to east winds of 15–20 knots offshore in the Gulf of Papagayo today, about 20 knots tonight, and 15–20 knots Monday. It drops to 10–15 knots Monday night and Tuesday, about 10 knots from the north Tuesday night and Wednesday, then back to 15–20 knots Thursday. The gap winds pulse strongest at night. Off Nicoya and to the south, winds stay light and variable (under 5 knots), so the offshore breeze reaches Nosara over the land, not along the coast. IMN says the trades are weak over the country today, so expect a lighter offshore than last week and an earlier sea breeze. Swell (open-ocean numbers, not beach heights): south to southwest 5–7 ft at 15–16 seconds through Monday, 4–6 ft at about 15 seconds Tuesday and Wednesday, then 5–7 ft with a shorter period (12–13 seconds) by Thursday. Nicaragua should be offshore all day today and Monday, and again from Thursday. That points to clean Nosara mornings, but not all-day offshore here: the afternoon sea breeze can turn it side-on.",
+    "bestWindows": "Today and Monday: dawn to late morning. Lighter offshore today, so get out early. Tuesday and Wednesday: dawn to mid-morning, then likely bumpy from the sea breeze. Thursday Nov 26 to about Dec 2: dawn to late morning. Offshore could hold past noon on the windiest days, though it will be gusty.",
+    "confidence": "High on offshore mornings. Moderate on the afternoon sea-breeze timing at the beach."
   },
   "gyreWatch": {
     "status": "Not established. No watch needed. No prolonged rainy spell expected.",
-    "possibleTiming": "Nothing organized through about Dec 5. The global tropics outlook (issued Nov 17, next update Tue Nov 24) gives a small chance (under 20%) of a storm forming somewhere in the eastern Pacific in late November or early December. It's a long shot, not aimed at Costa Rica.",
-    "supporting": "Very little. The global outlook still mentions that small storm chance. The European ensemble average shows a weak low off southern Costa Rica and Panama on Dec 1, but it sits under strong offshore trades, so it reads as a downwind low, not a developing storm.",
-    "conflicting": "The evidence against is strong. Trades push the rain to the Caribbean side, and all three ensemble averages keep Nicoya at a trace to 0.05 inch a day through Dec 5. The hurricane center expects no tropical storm formation in the next 7 days and shows no disturbances. IMN's sub-seasonal outlook calls the dry season established, with below-normal rain and a low chance of extreme events. The global outlook favors below-normal rain for parts of Central America during a strong El Niño."
+    "possibleTiming": "Nothing organized through about Dec 6. The US hurricane center expects no tropical storm formation in the eastern Pacific in the next 7 days. The global tropics outlook (issued Nov 17) gives less than a 20% chance of an eastern Pacific storm in late November or early December.",
+    "supporting": "Nothing points toward a rainy spell. The only low on the maps is the weak low off southern Costa Rica and Panama that forms when the trades blow hard.",
+    "conflicting": "Strong trades, low pressure staying to the south, and a strong El Niño all favor a drier than normal pattern. The tropics outlook and IMN both favor below-normal rain for Central America."
   },
-  "whatChanged": "Since the last published briefing (Wed Nov 18; the Nov 19 and 20 updates didn't run): The windy spell eased as expected. IMN no longer calls for 40–60 km/h gusts and now has only occasional gusts near the mountains, mostly early. The weekend trades are a bit stronger than expected: the marine forecast now keeps 15–20 knots in the Gulf of Papagayo through Monday, up from the 10–15 knots it showed for Saturday night and Sunday. The new outlook adds a light-wind lull Tuesday and Wednesday. The renewed trade-wind push now arrives a bit earlier, around Nov 27–Dec 1 (it was Nov 30–Dec 2). The rain outlook for Nosara hasn't changed: dry. The hurricane center still sees nothing, and the global tropics outlook hasn't been updated since Nov 17.",
-  "practical": "Surf early every day. Monday's still a solid morning, and Tuesday and Wednesday need a dawn start before the sea breeze. Plan boat or paddle trips for Tuesday through Thursday, when the water is calmest. Drink plenty in 34–37°C heat, especially during the low-breeze days midweek. Tie down loose gear and be careful with fire, especially once the trades build again around Nov 27. No rain plans needed.",
-  "alerts": [
-    "No active IMN warnings. The last notice, on Nov 13, was about short heavy downpours in the Central Valley and Caribbean mountains.",
-    "Marine: fresh northeast to east winds (15–20 knots) pulse each night in the Gulf of Papagayo through Monday."
-  ],
+  "whatChanged": "The trades return a day earlier: the marine forecast now has stronger Papagayo winds back on Thursday Nov 26, not Friday. IMN says the trades are weaker over the country today than expected, so Sunday is hotter (Nicoya about 37°C) with a lighter offshore. Swell is a touch bigger through Monday (5–7 ft at 16 seconds), and the period gets shorter by Thursday. Still dry, still no storms.",
+  "practical": "Surf dawn to late morning, and go early today and during the Tuesday–Wednesday lull. Use Tuesday and Wednesday for boat or paddle trips. Expect wind and dust from Thursday on. Plan outdoor events freely through early December. Stay hydrated and avoid open burning.",
+  "alerts": [],
   "sources": [
     {
-      "name": "IMN regional forecast (Sat Nov 21)",
+      "name": "IMN regional forecast (Nov 22)",
       "url": "https://www.imn.ac.cr/web/imn/reporte-pronostico-regional"
     },
     {
@@ -56,35 +53,31 @@
       "url": "https://www.imn.ac.cr/pronostico-subestacional"
     },
     {
-      "name": "IMN warnings (latest Nov 13; none active)",
+      "name": "IMN avisos (no active warnings; latest Nov 13)",
       "url": "https://www.imn.ac.cr/web/imn/avisos-meteorologicos"
     },
     {
-      "name": "NHC East Pacific Tropical Weather Outlook (10 p.m. PST Fri Nov 20 = midnight CST)",
+      "name": "NHC East Pacific Tropical Weather Outlook (4 a.m. PST Nov 22)",
       "url": "https://www.nhc.noaa.gov/text/MIATWOEP.shtml"
     },
     {
-      "name": "NHC 7-day graphic (9:06 p.m. PST Nov 20; no disturbances)",
-      "url": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
-    },
-    {
-      "name": "NHC Offshore Waters OFFPZ8 / PMZ113 Papagayo, PMZ115 (12:40 a.m. PST Nov 21)",
+      "name": "NHC Offshore Waters OFFPZ8 / PMZ113 Papagayo (12:36 a.m. PST Nov 22)",
       "url": "https://www.nhc.noaa.gov/text/MIAOFFPZ8.shtml"
     },
     {
-      "name": "NOAA CPC Global Tropics Hazards discussion (issued Nov 17, valid Nov 25–Dec 8)",
+      "name": "NOAA CPC Global Tropics Hazards (Nov 17, valid Nov 25–Dec 8)",
       "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php"
     },
     {
-      "name": "Tropical Tidbits model maps (GEFS, ECMWF EPS, AIFS-ENS, GFS, ECMWF; 00z Nov 21)",
+      "name": "Tropical Tidbits model maps (00z Nov 22)",
       "url": "https://www.tropicaltidbits.com/analysis/models/"
     }
   ],
   "modelsInspected": [
-    "GEFS mean 00z Nov 21: 850 hPa wind/MSLP f000, f048, f096, f168, f240, f312, f360; 24-h precip f048, f072, f120, f168, f216, f264, f312, f360",
-    "ECMWF EPS mean 00z Nov 21: 850 hPa wind/MSLP f000, f048, f096, f168, f240 (1009 hPa low off S Costa Rica/Panama), f312, f360; 24-h precip f048–f360 (same hours)",
-    "AIFS-ENS mean 00z Nov 21: 850 hPa wind/MSLP f000–f360 (same hours); 24-h precip f048–f360 (same hours)",
-    "GFS 00z Nov 21: 850 hPa wind/MSLP f012, f024, f048, f072",
-    "ECMWF 00z Nov 21: 850 hPa wind/MSLP f006, f024, f048, f072, f096 (Tehuantepec northerly surge Nov 25)"
+    "ECMWF EPS mean 00z Nov 22: 850 hPa wind/MSLP (f000–f336) and 24-h precip (f048–f360), East Pacific",
+    "GEFS mean 00z Nov 22: 850 hPa wind/MSLP and 24-h precip, same frames",
+    "AIFS-ENS mean 00z Nov 22: 850 hPa wind/MSLP and 24-h precip, same frames",
+    "ECMWF deterministic 00z Nov 22: 850 hPa wind/MSLP to f096",
+    "GFS deterministic 00z Nov 22: 850 hPa wind/MSLP to f192"
   ]
 }
